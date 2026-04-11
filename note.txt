@@ -5,3 +5,5 @@
      (b) git add . (To stage all files)
 
 3.  Commit: git commit -m "put your message"
+
+Push: git push -u origin main
