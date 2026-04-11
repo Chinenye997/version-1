@@ -6,4 +6,11 @@
 
 3.  Commit: git commit -m "put your message"
 
-4.  Push: git push -u origin main
+4.  Push: 
+     (a) git remote add origin https://github.com/Chinenye997/version-1.git
+
+    ( c)git push -u origin main
+
+
+
+    
