@@ -3,7 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
-h1{
-    background-color: gold;
+ body{
+    background-color: blue;
     color: white;
+}
+
+header{
+    background-color: gold;
+    color: black;
+    padding: 2rem;
+}
+.hero{
+    background-color: blueviolet;
+    min-height: 50vh;
 }
