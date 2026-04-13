@@ -18,5 +18,10 @@ header{
     min-height: 50vh;
 }
 .feature{
-    background-color: bronw;
+    background-color: brown;
+    color: white;
+}
+
+.contact-section{
+    background-color: green;
 }
