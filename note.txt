@@ -11,6 +11,10 @@
 
     ( c)git push -u origin main
 
+git branch branch-name  - This is use to create a brach 
+
+git checkout branch-name - This is used to navi into a branch
+
 
 
     
