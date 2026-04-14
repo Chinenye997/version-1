@@ -25,3 +25,8 @@ header{
 .contact-section{
     background-color: green;
 }
+
+footer{
+    background-color: cornflowerblue;
+    padding: 4rem 0;
+}
